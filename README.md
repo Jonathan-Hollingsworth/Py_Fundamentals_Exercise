@@ -16,5 +16,5 @@ Prints all numbers (from nums) between the lowest and highest
 Add all numbers (from nums) together and returns the total  
 (sum([1, 2, 3, 4]) would return 10)
 ## print_upper_words(words, must_start_with)
-Prints all given words that match the (must_start_with) condition in full Uppercase  
+Prints all given words that match the (must_start_with) condition(it should be a list of strings) in full Uppercase  
 (if there is no condition given then it will print all words given)
